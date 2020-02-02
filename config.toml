@@ -4,3 +4,5 @@ title = "My New Hugo Site"
 theme = "hugo-theme-bootstrap4-blog"
 baseurl = "https://github.com/GOD-oda/GOD-oda.github.io"
 canonifyurls = true
+publishdir = "public"
+
